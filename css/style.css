@@ -5,3 +5,12 @@
     border: 2px solid black;
     padding: 5px;
 }
+
+.img {
+margin: 0 auto;
+width: 200px;
+}
+
+img {
+    width: 100%;
+}

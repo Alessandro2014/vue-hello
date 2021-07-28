@@ -11,5 +11,6 @@ const root = new Vue({
         residenza: 'via contarini, 9',
         citta: 'sperduta',
         myClass: 'font-size',
+        mySecondClass: 'img'
     } 
 });
